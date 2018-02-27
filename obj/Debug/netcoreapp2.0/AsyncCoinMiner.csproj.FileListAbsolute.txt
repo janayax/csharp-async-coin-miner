@@ -1,0 +1,10 @@
+d:\Workspace\dotnetcore\AsyncCoinMiner\bin\Debug\netcoreapp2.0\AsyncCoinMiner.deps.json
+d:\Workspace\dotnetcore\AsyncCoinMiner\bin\Debug\netcoreapp2.0\AsyncCoinMiner.runtimeconfig.json
+d:\Workspace\dotnetcore\AsyncCoinMiner\bin\Debug\netcoreapp2.0\AsyncCoinMiner.runtimeconfig.dev.json
+d:\Workspace\dotnetcore\AsyncCoinMiner\bin\Debug\netcoreapp2.0\AsyncCoinMiner.dll
+d:\Workspace\dotnetcore\AsyncCoinMiner\bin\Debug\netcoreapp2.0\AsyncCoinMiner.pdb
+d:\Workspace\dotnetcore\AsyncCoinMiner\obj\Debug\netcoreapp2.0\AsyncCoinMiner.csproj.CoreCompileInputs.cache
+d:\Workspace\dotnetcore\AsyncCoinMiner\obj\Debug\netcoreapp2.0\AsyncCoinMiner.AssemblyInfoInputs.cache
+d:\Workspace\dotnetcore\AsyncCoinMiner\obj\Debug\netcoreapp2.0\AsyncCoinMiner.AssemblyInfo.cs
+d:\Workspace\dotnetcore\AsyncCoinMiner\obj\Debug\netcoreapp2.0\AsyncCoinMiner.dll
+d:\Workspace\dotnetcore\AsyncCoinMiner\obj\Debug\netcoreapp2.0\AsyncCoinMiner.pdb
